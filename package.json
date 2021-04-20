@@ -1,7 +1,7 @@
 {
   "name": "graph.editor",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
+  "author": "Sam Sha",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
