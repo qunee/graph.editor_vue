@@ -17,7 +17,8 @@
         <GraphEditor id="editor" ref="editor"/>
         <footer id="footer" role="contentinfo">
             <a href="http://www.beian.miit.gov.cn" target="_blank">沪ICP备17006876号</a>
-            Copyright © 2014 - 2020 上海酷利软件有限公司 Shanghai Kuli Software Co.,Ltd. All right reserved. Email: <span style="color: #2898E0;">support#qunee.com</span>
+            Copyright © 2014 - 2021 上海酷利软件有限公司 Shanghai Kuli Software Co.,Ltd. All right reserved. Email: <span style="color: #2898E0;">support#qunee
+            .com</span>. 仓库: <a href="https://github.com/qunee/graph.editor_vue"><b>graph.editor_vue</b></a>
         </footer>
     </div>
 </template>
