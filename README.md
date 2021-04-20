@@ -8,8 +8,6 @@
 
 在线示例：[http://demo.qunee.com/editor/](http://demo.qunee.com/editor/)
 
-![拓扑图编辑器截图1](screenshot/screenshot.png)
-
 开发方式说明
 
 1，es6开发，无需安装vue环境，支持chrome，safari，firefox，edge等支持es6的浏览器
@@ -17,3 +15,5 @@
 直接部署访问 src/index_es6.html
 
 2，vue开发，需要安装vue环境，参照vue项目的部署方式进行
+
+![拓扑图编辑器截图1](screenshot/screenshot.png)
