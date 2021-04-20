@@ -1,0 +1,9 @@
+/node_modules/
+/dist/
+/.idea/
+/other/
+/tsdoc/typings/
+/public/data/cisco/
+/public/data/images/
+/public/data/cisco.json
+/public/data/topo.json
